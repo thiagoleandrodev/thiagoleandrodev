@@ -10,59 +10,19 @@ Me chamo Thiago Leandro, tenho 24 anos e sou natural do Minas Gerais. Concluí o
 
 <img
     align="left"
+    alt="Java"
+    title="Java" 
+    width="30px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+<img
+    align="left"
     alt="Python"
     title="Python" 
     width="30px"
     style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-
-<img
-    align="left"
-    alt="Ruby"
-    title="Ruby"
-    width="30px"
-    style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain-wordmark.svg" />
-
-<img
-    align="left"
-    alt="Ruby on Rails"
-    title="Ruby on Rails"
-    width="30px"
-    style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" />
-
-<img
-    align="left"
-    alt="Kotlin"
-    title="Kotlin" 
-    width="30px"
-    style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-      
-<img
-    align="left"
-    alt="C/C++"
-    title="C/C++" 
-    width="30px"
-    style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
-     
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> 
-
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> 
 
 <img 
     align="left" 
@@ -74,27 +34,11 @@ Me chamo Thiago Leandro, tenho 24 anos e sou natural do Minas Gerais. Concluí o
 
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-
-<img 
-    align="left" 
     alt="Next.js" 
     title="Next.js"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-
-<img
-    align="left"
-    alt="Java"
-    title="Java" 
-    width="30px"
-    style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
 <img
     align="left"
@@ -112,13 +56,14 @@ Me chamo Thiago Leandro, tenho 24 anos e sou natural do Minas Gerais. Concluí o
     style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
+
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="HTML"
+    title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> 
 
 
 <br/>
