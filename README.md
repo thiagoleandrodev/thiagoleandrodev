@@ -1,11 +1,7 @@
 # 👨🏾‍💻 Thiago Leandro
 
-**`Desenvolvedor Back-End`**
-
-Me chamo Thiago Leandro, tenho 24 anos e sou natural do Minas Gerais. Concluí o ensino médio, com o curso técnico em informática. Atualmente, estou cursando graduação em ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - TECNÓLOGO. Sou apaixonado por tecnologia, Programação, Segurança da Informação e Inteligência Artificial compartilho meu conhecimento através do meu Linkedin "[Thiago Leandro](www.linkedin.com/in/thiago-cyber25)", onde eu mostro meu desenvolvimento, e também através do Medium, com o perfil chamado "[Thiago Leandro Cybersecurity](https://medium.com/@thiagoleandro2121)".
-
 # 💫 About Me:
-Atualmente estou trabalhando como AI Engineer/AI builder
+Me chamo Thiago Leandro, tenho 25 anos e sou natural do Minas Gerais. Concluí o ensino médio, com o curso técnico em informática. Atualmente, estou cursando graduação em ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - TECNÓLOGO. Sou apaixonado por tecnologia, Programação, Segurança da Informação e Inteligência Artificial compartilho meu conhecimento através do meu Linkedin "[Thiago Leandro](www.linkedin.com/in/thiago-cyber25)", onde eu mostro meu desenvolvimento, e também através do Medium, com o perfil chamado "[Thiago Leandro Cybersecurity](https://medium.com/@thiagoleandro2121)". Atualmente estou trabalhando como AI Engineer/AI builder
 
 
 ## 🌐 Socials:
